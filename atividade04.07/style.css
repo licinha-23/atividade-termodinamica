@@ -1,0 +1,17 @@
+li {
+    margin: 5px;
+}
+#Cadastrar{
+    margin-top: 10px;
+    background-color: deeppink;
+    color: aliceblue;
+}
+h1{
+    color: deeppink;
+}
+body {
+    color: deeppink;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 20px;
+    margin-left: 50px;
+}
